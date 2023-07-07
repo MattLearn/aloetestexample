@@ -1,4 +1,4 @@
-# aloe test example
+# Aloe test example
 example files of aloe automation for docassemble
 an example file from learning how to automate docassemble interviews using aloe (A selenium offshoot)
 It requires two python files and the selenium webdrivers to work.
@@ -12,4 +12,4 @@ This is only a basic example that covers:
 - How to set input to a specific field
 - How to wait/pause
 
-# This is no longer relevant as due to dependency conflict behave is now used instead of aloe
+## This is no longer relevant as due to dependency conflict, Behave is now used instead of Aloe since version 1.4.0 dated 2022-07-31
